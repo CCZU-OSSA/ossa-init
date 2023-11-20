@@ -1,10 +1,12 @@
 # 常州大学开源软件协会重建计划
 
+原组织 -> [CCZU-OSA](https://github.com/CCZU-OSA)
+
 ## 过去与现在
 
 过去的`CCZU-OSA`孕育出了许多优秀的成果，但由于前辈们的离去，协会与开源精神都没有很好地传承下来，如今，我想正是重建`OSA`的时机，为了与`OSA`区别开来，我们的组织命名为`OSSA`，也就是`Open Source Software Association`，~~（与`Open Source Association`区分）~~。
 
-至于为什么要新建立一个组织，而不是复用，原因有很多，~~（其实是联系不上，当然后面是联系上了，详见 cczu-osa/init#1）~~。
+至于为什么要新建立一个组织，而不是复用，原因有很多，~~（其实是联系不上，当然后面是联系上了，详见 [cczu-osa/init#1](https://github.com/CCZU-OSA/osa-init/issues/1)）~~。
 
 `CCZU-OSA`的建立者RC的项目NoneBot对我帮助很大，或许这是一种缘分。
 
